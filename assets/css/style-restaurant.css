@@ -1420,8 +1420,8 @@ footer
 */
 
 footer {
-  margin-top: 60px;
-  padding: 50px 0px;
+  margin-top: 30px;
+  padding: 20px 0px;
   background-color: #518E63;
 }
 
@@ -1438,7 +1438,6 @@ footer .right-text-content p {
   margin-right: 15px;
   text-transform: uppercase;
 }
-
 
 footer .right-text-content {
   text-align: left;
